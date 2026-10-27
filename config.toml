@@ -18,12 +18,12 @@ enable-update-checks = true
 # Facebook (сборка модуля и APK)
 [Facebook]
 build-mode = "both"
-patches-source = "ReVanced/revanced-patches"
+patches-source = "RookieEnough/De-Vanced"
 cli-source = "MorpheApp/morphe-cli"
-rv-brand = "ReVanced"
+rv-brand = "DeVanced"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.facebook.katana"
-enable-update-checks = true
+enable-update-checks = false
 
 # Twitter / X (патчи Piko)
 [Twitter]
